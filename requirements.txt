@@ -1,0 +1,3 @@
+# AWS Strands Agent Framework
+strands-agents>=1.1.0
+strands-agents-tools>=0.2.2
